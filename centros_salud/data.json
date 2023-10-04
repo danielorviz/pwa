@@ -1,7 +1,7 @@
 {
     "meta": {
         "app_id": "org.example.same.identifier.manifest.package",
-        "app_title": "City Street Heritage",
+        "app_title": "Centros de salud Calzada de Asturias",
         "version": 1,
         "updated": "2022-09-26",
         "source_url": "https://github.com/danielorviz/pwa",
@@ -22,25 +22,11 @@
                 "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/#get-involved",
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
-            "pois": [{
-                    "id": "CentroSalud1",
-                    "lat": "43.5437393",
-                    "lon": "-5.6983988",
-                    "type": "salud",
-                    "name": "Centro salud 2 La Calzada",
-                    "images": [
-                        "https://github.com/danielorviz/pwa/blob/main/centros_salud/imagenes/centro1.jpeg?raw=true"
-                    ],
-                    "description": "Centro de salud número 2 de la Calzada de Asturias",
-                    "more": "Servicio de urgencias por la tarde",
-                    "urls": [
-                        "https://www.google.com/search?q=centro+salud+la+calzada+asturias&rlz=1C1GGRV_enES753ES753&oq=centro+salud&aqs=chrome.0.69i59j69i57j0i67i650j0i131i433i650j46i175i199i512j69i60l3.1735j0j7&sourceid=chrome&ie=UTF-8&bshm=rime/1#rlimm=11358599268740032807"
-                    ]
-                },
+            "pois": [
                 {
-                    "id": "CentroSalud2",
-                    "lat": "43.5437393",
-                    "lon": "-5.6983988",
+                    "id": "CentroSalud1",
+                    "lat": "43.5426972",
+                    "lon": "-5.7004891",
                     "type": "salud",
                     "name": "Centro salud 1 La Calzada",
                     "images": [
@@ -50,6 +36,21 @@
                     "more": "Solo servicio por las mañanas.",
                     "urls": [
                         "https://www.astursalud.es/noticias/-/noticias/c-s-la-calzada-1"
+                    ]
+                },
+                {
+                    "id": "CentroSalud2",
+                    "lat": "43.5409933",
+                    "lon": "-5.7044951",
+                    "type": "salud",
+                    "name": "Centro salud 2 La Calzada",
+                    "images": [
+                        "https://github.com/danielorviz/pwa/blob/main/centros_salud/imagenes/centro1.jpeg?raw=true"
+                    ],
+                    "description": "Centro de salud número 2 de la Calzada de Asturias",
+                    "more": "Servicio de urgencias por la tarde",
+                    "urls": [
+                        "https://www.google.com/search?q=centro+salud+la+calzada+asturias&rlz=1C1GGRV_enES753ES753&oq=centro+salud&aqs=chrome.0.69i59j69i57j0i67i650j0i131i433i650j46i175i199i512j69i60l3.1735j0j7&sourceid=chrome&ie=UTF-8&bshm=rime/1#rlimm=11358599268740032807"
                     ]
                 }
             ]
