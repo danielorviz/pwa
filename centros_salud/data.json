@@ -29,30 +29,12 @@
                     "type": "statue",
                     "name": "My Statue",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
+                        "https://github.com/danielorviz/pwa/blob/main/centros_salud/imagenes/centro1.jpeg"
                     ],
                     "description": "One-paragraph description",
                     "more": "More description, if you want",
                     "urls": [
                         "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
-                        "https://example.org/mypoi"
-                    ]
-                },
-                {
-                    "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
-                    "type": "statue",
-                    "name": "My Statue",
-                    "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
-                    ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
-                    "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
                         "https://example.org/mypoi"
                     ]
                 }
