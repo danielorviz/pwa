@@ -23,19 +23,18 @@
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "uniqueID",
-                    "lat": "50.8789629",
-                    "lon": "4.7013242",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "id": "CentroSalud1",
+                    "lat": "43.5437393",
+                    "lon": "-5.6983988",
+                    "type": "salud",
+                    "name": "Centro salud 2 La Calzada",
                     "images": [
-                        "https://github.com/danielorviz/pwa/blob/main/centros_salud/imagenes/centro1.jpeg"
+                        "https://github.com/danielorviz/pwa/blob/main/centros_salud/imagenes/centro1.jpeg?raw=true"
                     ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
+                    "description": "Centro de salud número 2 de la Calzada de Asturias",
+                    "more": "Servicio de urgencias por la tarde",
                     "urls": [
-                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
-                        "https://example.org/mypoi"
+                        "https://www.google.com/search?q=centro+salud+la+calzada+asturias&rlz=1C1GGRV_enES753ES753&oq=centro+salud&aqs=chrome.0.69i59j69i57j0i67i650j0i131i433i650j46i175i199i512j69i60l3.1735j0j7&sourceid=chrome&ie=UTF-8&bshm=rime/1#rlimm=11358599268740032807"
                     ]
                 }
             ]
